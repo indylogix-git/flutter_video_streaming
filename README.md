@@ -14,7 +14,6 @@ flutter run
 
 To run videos you will need a physical device connected to your mac os laptop. 
 
-Author: Tobechukwu Osakwe
-Copyright: Hakin9 Media
+If you want to outsource your Flutter project, email us on info@indylogix.com
 
 # flutter_video_streaming
